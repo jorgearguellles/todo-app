@@ -1,11 +1,12 @@
 # Project: Todo App
 
-This project is a Todo App made with create-react-app and develop the next users histories:
-- c
-- c
-- c
-- c
-- c
+This project is a Todo App and you can do:
+- Create a task-card
+- Mark as done a task-card
+- Delete a task-card
+- See all task created every time we want
+- Search a specific task
+- See how many task we don't have done
 
 ## Autor
 
