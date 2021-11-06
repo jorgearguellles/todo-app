@@ -1,10 +1,12 @@
 import React from 'react'
 import "../styles/TodoCounter.css";
 
-const TodoCounter = () => {
+const TodoCounter = ( {total, completed} ) => {
   return (
-      <h2 className="title">Haz completado 2 de 3 TODOs</h2>
+    <h2 className="title">
+      Haz completado {completed} de {total} TODOs
+    </h2>
   )
-}
+};
 
 export default TodoCounter
