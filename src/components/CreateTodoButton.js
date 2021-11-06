@@ -1,9 +1,19 @@
 import React from 'react'
 import "../styles/CreateTodoButton.css";
 
-const CreateTodoButton = () => {
+const CreateTodoButton = (props) => {
+
+  const onClickButton = (msg) => {
+    console.log(msg);
+  };
+
   return (
-      <button className="CreateTodoButton">+</button>
+      <button 
+        className="CreateTodoButton"
+        onClick={() => onClickButton()}
+      >
+        +
+      </button>
   )
 }
 
