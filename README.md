@@ -33,4 +33,4 @@ Made with :green_heart: y:
 
 ## Feedback
 
-Si tienes alguna idea que ayude a mejorar, sientete libre de compartirla con: [@JorgeAriasArgüelles](https://www.linkedin.com/in/jorgeariasarguelles/)
+Si tienes alguna idea para mejorar, es muy bienvenida: [@JorgeAriasArgüelles](https://www.linkedin.com/in/jorgeariasarguelles/)
