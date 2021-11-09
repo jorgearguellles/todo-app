@@ -28,7 +28,8 @@ Made with :green_heart: y:
 
 ## Screenshot App
 
-![App Screenshot](...)
+![App Screenshot](https://github.com/jorgearguellles/todo-app/blob/main/src/assets/images/1.png)
+![App Screenshot](https://github.com/jorgearguellles/todo-app/blob/main/src/assets/images/2.png)
 
 ## Feedback
 
