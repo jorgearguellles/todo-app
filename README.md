@@ -14,7 +14,7 @@ This project is a Todo App and you can do:
 [LinkedIn](https://www.linkedin.com/in/jorgeariasarguelles/) 
 - Based on the design made by Alex Arutuynov [LinkedIn](https://www.linkedin.com/in/alex-arutuynov/) & [Dribble](https://dribbble.com/alex_arutuynov)
 
-## Documentación
+## Documentation
 
 Made with :green_heart: y:
 
@@ -24,7 +24,7 @@ Made with :green_heart: y:
 
 ## Demo
 
-[Pruébala](https://jorgearguellles.github.io/todo-app/)
+[Try it](https://jorgearguellles.github.io/todo-app/)
 
 ## Screenshot App
 
@@ -33,4 +33,4 @@ Made with :green_heart: y:
 
 ## Feedback
 
-Si tienes alguna idea para mejorar, es muy bienvenida: [@JorgeAriasArgüelles](https://www.linkedin.com/in/jorgeariasarguelles/)
+Open to: [@JorgeAriasArgüelles](https://www.linkedin.com/in/jorgeariasarguelles/)
