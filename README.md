@@ -11,8 +11,8 @@ This project is a Todo App and you can do:
 ## Makers
 
 - Developed by Jorge Arias Argüelles [GitHub](https://github.com/jorgearguellles) &
-[LinkedIn](https://www.linkedin.com/in/jorgeariasarguelles/)
-- Designed by Alex Arutuynov [LinkedIn](https://www.linkedin.com/in/alex-arutuynov/) & [Dribble](https://dribbble.com/alex_arutuynov)
+[LinkedIn](https://www.linkedin.com/in/jorgeariasarguelles/) 
+- Based on the design made by Alex Arutuynov [LinkedIn](https://www.linkedin.com/in/alex-arutuynov/) & [Dribble](https://dribbble.com/alex_arutuynov)
 
 ## Documentación
 
