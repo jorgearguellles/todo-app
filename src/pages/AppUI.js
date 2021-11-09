@@ -8,6 +8,7 @@ import CreateTodoButton from "../components/CreateTodoButton";
 import { Modal } from "../components/Modal"; 
 import TodoFrom from '../components/TodoFrom';
 
+
 function AppUI (){
 
   const { 
@@ -52,7 +53,6 @@ function AppUI (){
         setOpenModal={setOpenModal}
       />
     </>
-    
   )
 }
 
